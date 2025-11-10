@@ -15,8 +15,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/rabbitmq/amqp091-go v1.10.0 h1:STpn5XsHlHGcecLmMFCtg7mqq0RnD+zFr4uzukfVhBw=
 github.com/rabbitmq/amqp091-go v1.10.0/go.mod h1:Hy4jKW5kQART1u+JkDTF9YYOQUHXqMuhrgxOEeS7G4o=
-github.com/rodolfodevapp/eventshop-messaging-go v0.1.1 h1:FJgYdwGVSlk2rjezJwkUh8y8Wk2Ctf1OqXZzzUa7Qzo=
-github.com/rodolfodevapp/eventshop-messaging-go v0.1.1/go.mod h1:YyacVY8c9cT380o7ka80U48zehBVda2QswHrBZOE0us=
+github.com/rodolfodevapp/eventshop-messaging-go v0.1.2 h1:+c2YViOOKtURsnv8H/1uuYWJ1fFNjkrBL8rQx58q3MI=
+github.com/rodolfodevapp/eventshop-messaging-go v0.1.2/go.mod h1:omANEG1JRd1gRsRtu61ECDsfThv+Rh2Q6gjthr6UjAo=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
